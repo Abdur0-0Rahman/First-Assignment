@@ -110,7 +110,7 @@
 
 
 .sec-mid {
-    background-image: url('Images/Vectorrr.png');
+    background-image: url(Images/Vectorrr.png);
     display: flex;
     align-items: center;
     justify-content: center;
